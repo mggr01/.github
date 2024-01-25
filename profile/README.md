@@ -18,3 +18,8 @@
 - 인원 : 8명
 - 진행 시간 :  주 3회 (월,수,금), 6시~8시(2시간)
 - 장소 : KOSA 703호
+
+### 3. 구성원
+|김동원|김지우|박상원|신건우|신도인|안희찬|조수빈|조은새|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img alt="김동원" src="https://avatars.githubusercontent.com/u/33149791?v=4" height="100" width="100">|<img alt="김지우" src="https://avatars.githubusercontent.com/u/128121468?v=4" height="100" width="100">|<img alt="박상원" src="https://avatars.githubusercontent.com/u/153996996?v=4" height="100" width="100">|<img alt="신건우" src="https://avatars.githubusercontent.com/u/127470209?v=4" height="100" width="100">|<img alt="신도인" src="https://avatars.githubusercontent.com/u/121351760?v=4" height="100" width="100">|<img alt="안희찬" src="https://avatars.githubusercontent.com/u/105409323?v=4" height="100" width="100">|<img alt="조수빈" src="https://avatars.githubusercontent.com/u/131837735?v=4" height="100" width="100">|<img alt="조은새" src="https://avatars.githubusercontent.com/u/83803199?v=4" height="100" width="100">|
